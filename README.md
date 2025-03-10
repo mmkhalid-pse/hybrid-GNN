@@ -6,10 +6,12 @@ by Md Meraj Khalid, Luisa Peterson, Edgar Ivan Sanchez Medina, Kai Sundmacher
 
 This repository contains the code and data used for the analysis presented in the paper [Physics-Informed Graph Neural Networks for Modeling Spatially Distributed Dynamically Operated Processes](). The work explores different levels of physics integration in graph neural networks (GNNs) for modeling a catalytic CO2 methanation reactor.
 
-![Generic schematic diagram of hybrid Graph Neural Networks](./reports/schematic.png)
 *Generic schematic diagram of hybrid Graph Neural Networks*
-![Network architecture of Graph Neural Networks](./reports/arch.png)
+![Generic schematic diagram of hybrid Graph Neural Networks](./reports/schematic.png)
+
 *Network architecture of Graph Neural Networks*
+![Network architecture of Graph Neural Networks](./reports/arch.png)
+
 
 ## Repository Structure
 
