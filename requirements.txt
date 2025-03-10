@@ -1,0 +1,11 @@
+imageio==2.34.0
+ipdb==0.13.13
+matplotlib==3.10.1
+numpy==2.2.3
+optuna==4.2.1
+pandas==2.2.3
+scikit_learn==1.4.1.post1
+scipy==1.15.2
+torch==2.2.1
+torch_geometric==2.6.1
+tqdm==4.66.2
