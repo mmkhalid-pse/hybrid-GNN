@@ -42,7 +42,7 @@ If you use this repository in your research, please cite our paper:
 }
 ```
 
-This work builds up on the work reported in [1], code available at [github.com/lsptrsn/surrogates_catalytic_reactor/](https://github.com/lsptrsn/surrogates_catalytic_reactor/).
+This work extends on the GNN implementation reported in [1], code available at [github.com/lsptrsn/surrogates_catalytic_reactor/](https://github.com/lsptrsn/surrogates_catalytic_reactor/).
 [1] Luisa Peterson, Ali Forootani, Edgar Ivan Sanchez Medina, Ion Victor Gosea, Kai Sundmacher, and Peter Benner. Towards Digital Twins for Power-to-X: Comparing Surrogate Models for a Catalytic CO2 Methanation Reactor. TechRxiv. August 02, 2024. DOI: 10.36227/techrxiv.172263007.76668955/v1
 
 ## License
