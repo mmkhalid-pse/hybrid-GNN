@@ -6,10 +6,12 @@ by Md Meraj Khalid, Luisa Peterson, Edgar Ivan Sanchez Medina, Kai Sundmacher
 
 This repository contains the code and data used for the analysis presented in the paper [Physics-Informed Graph Neural Networks for Modeling Spatially Distributed Dynamically Operated Processes](). The work explores different levels of physics integration in graph neural networks (GNNs) for modeling a catalytic CO2 methanation reactor.
 
-![Generic schematic diagram of hybrid Graph Neural Networks](./reports/schematic.png)
 *Generic schematic diagram of hybrid Graph Neural Networks*
-![Network architecture of Graph Neural Networks](./reports/arch.png)
+![Generic schematic diagram of hybrid Graph Neural Networks](./reports/schematic.png)
+
 *Network architecture of Graph Neural Networks*
+![Network architecture of Graph Neural Networks](./reports/arch.png)
+
 
 ## Repository Structure
 
@@ -40,7 +42,8 @@ If you use this repository in your research, please cite our paper:
 }
 ```
 
-This work builds up on the work reported in [1], code available at [github.com/lsptrsn/surrogates_catalytic_reactor/](https://github.com/lsptrsn/surrogates_catalytic_reactor/).
+This work extends on the GNN implementation reported in [1], code available at [github.com/lsptrsn/surrogates_catalytic_reactor/](https://github.com/lsptrsn/surrogates_catalytic_reactor/).
+
 [1] Luisa Peterson, Ali Forootani, Edgar Ivan Sanchez Medina, Ion Victor Gosea, Kai Sundmacher, and Peter Benner. Towards Digital Twins for Power-to-X: Comparing Surrogate Models for a Catalytic CO2 Methanation Reactor. TechRxiv. August 02, 2024. DOI: 10.36227/techrxiv.172263007.76668955/v1
 
 ## License
